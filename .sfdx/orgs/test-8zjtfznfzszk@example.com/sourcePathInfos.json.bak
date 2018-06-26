@@ -1,0 +1,227 @@
+[
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530013235468,
+            "changeTime": 1530013235468,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530013235468,
+            "changeTime": 1530013235468,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530013235468,
+            "changeTime": 1530013235468,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530013373849,
+            "changeTime": 1530013373849,
+            "contentHash": "93842f05dc96da2533a2804ae30d1df05784b9b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1530013373852,
+            "changeTime": 1530013373852,
+            "contentHash": "37a1c5342829e1c1c4470b8bd9135c89231a66dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1530013373852,
+            "changeTime": 1530013373852,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 125,
+            "modifiedTime": 1530014203345,
+            "changeTime": 1530014203345,
+            "contentHash": "4f19c928d2b6ccd801f0a90793171d2fcc5c2eac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1530013373850,
+            "changeTime": 1530013373850,
+            "contentHash": "fdc50bb6ee685de224c628435420046b888fc225",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1530013373851,
+            "changeTime": 1530013373851,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1530013373852,
+            "changeTime": 1530013373852,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1530013373851,
+            "changeTime": 1530013373851,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1530013373850,
+            "changeTime": 1530013373850,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1530013373850,
+            "changeTime": 1530013373850,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1530013373851,
+            "changeTime": 1530013373851,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1530013252789,
+            "changeTime": 1530013252789,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

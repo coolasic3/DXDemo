@@ -1,0 +1,862 @@
+[
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1530013235468,
+            "changeTime": 1530013235468,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1530013235468,
+            "changeTime": 1530013235468,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1530016365963,
+            "changeTime": 1530016365963,
+            "contentHash": "ef547608e3e1755082edb69a2839297a2ab272f5"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1530013373849,
+            "changeTime": 1530013373849,
+            "contentHash": "93842f05dc96da2533a2804ae30d1df05784b9b2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1530013373852,
+            "changeTime": 1530013373852,
+            "contentHash": "37a1c5342829e1c1c4470b8bd9135c89231a66dc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.auradoc",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1530013373852,
+            "changeTime": 1530013373852,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp",
+            "isDirectory": false,
+            "size": 125,
+            "modifiedTime": 1530014203345,
+            "changeTime": 1530014203345,
+            "contentHash": "4f19c928d2b6ccd801f0a90793171d2fcc5c2eac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1530013373850,
+            "changeTime": 1530013373850,
+            "contentHash": "fdc50bb6ee685de224c628435420046b888fc225",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.css",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1530013373851,
+            "changeTime": 1530013373851,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.design",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1530013373852,
+            "changeTime": 1530013373852,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.svg",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1530013373851,
+            "changeTime": 1530013373851,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoController.js",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1530013373850,
+            "changeTime": 1530013373850,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoHelper.js",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1530013373850,
+            "changeTime": 1530013373850,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoRenderer.js",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/aura/DXDemo/DXDemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1530013373851,
+            "changeTime": 1530013373851,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo",
+        {
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1530013252789,
+            "changeTime": 1530013252789,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1530016365516,
+            "changeTime": 1530016365516,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/asset-manifest.json",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/asset-manifest.json",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1717,
+            "modifiedTime": 1530016365893,
+            "changeTime": 1530016365893,
+            "contentHash": "dbcc0905a81daaee35d1171b9cfac6b091ae2709"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/crossoriginfallback.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/crossoriginfallback.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 474,
+            "modifiedTime": 1530016365894,
+            "changeTime": 1530016365894,
+            "contentHash": "c0f993c1ac31c0804f27a8b6a92eae1c18836c1f"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/favicon.ico",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/favicon.ico",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1150,
+            "modifiedTime": 1530016365894,
+            "changeTime": 1530016365894,
+            "contentHash": "11648f8d7323cf54d23426d239c56cdec4798828"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/index.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/index.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1370,
+            "modifiedTime": 1530016365894,
+            "changeTime": 1530016365894,
+            "contentHash": "1d51c5a5c6ee133cf475c688b2b38790f40117c5"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/logo-blue.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/logo-blue.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3600,
+            "modifiedTime": 1530016365895,
+            "changeTime": 1530016365895,
+            "contentHash": "8234e86fcf6da5b22bab1a09a21cdaef60d1b35b"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/service-worker.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/service-worker.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4694,
+            "modifiedTime": 1530016365895,
+            "changeTime": 1530016365895,
+            "contentHash": "7618918107108ad03c06c5bdc9fdcb3ecd64be6c"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/css/main.da6a0d99.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/css/main.da6a0d99.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182681,
+            "modifiedTime": 1530016365896,
+            "changeTime": 1530016365896,
+            "contentHash": "f6acc732643f7e28fed42e976896c674ed35d5d0"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/css/main.da6a0d99.css.map",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/css/main.da6a0d99.css.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 282932,
+            "modifiedTime": 1530016365897,
+            "changeTime": 1530016365897,
+            "contentHash": "43e8b0d0043930ed7adab53452d801c9f4c4cd02"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js/main.fc4e4d37.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js/main.fc4e4d37.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1900826,
+            "modifiedTime": 1530016365900,
+            "changeTime": 1530016365900,
+            "contentHash": "72b391461052a0e313636b3949edb1444a1ca643"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js/main.fc4e4d37.js.gz",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js/main.fc4e4d37.js.gz",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 541185,
+            "modifiedTime": 1530016365902,
+            "changeTime": 1530016365902,
+            "contentHash": "4f871e95f657446bee1d4b97da3647341a6f8381"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js/main.fc4e4d37.js.map",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js/main.fc4e4d37.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7797380,
+            "modifiedTime": 1530016365909,
+            "changeTime": 1530016365909,
+            "contentHash": "f6250efc8dd42b5964d868b0f221d7f056f9647a"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/ActiveMonthShape.7fdcfcbf.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/ActiveMonthShape.7fdcfcbf.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1050,
+            "modifiedTime": 1530016365910,
+            "changeTime": 1530016365910,
+            "contentHash": "444077adc811a8caf467ab5353139ebb2b2fa328"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleBorder.7a57a920.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleBorder.7a57a920.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 541,
+            "modifiedTime": 1530016365910,
+            "changeTime": 1530016365910,
+            "contentHash": "58d8ead7d63ff3ef9fe5e8b22640f2103dc4348c"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleFill.3dcfe082.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleFill.3dcfe082.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 538,
+            "modifiedTime": 1530016365910,
+            "changeTime": 1530016365910,
+            "contentHash": "ea98ca57d6cae67083e898a83c1893ef9b2ddf6f"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleFillHighlight.2ca28823.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleFillHighlight.2ca28823.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 549,
+            "modifiedTime": 1530016365911,
+            "changeTime": 1530016365911,
+            "contentHash": "19b9fb594bd26b63bbd9cd6a70400f2234139b3c"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleFillHighlightInactive.9a8d9ff3.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/CircleFillHighlightInactive.9a8d9ff3.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 545,
+            "modifiedTime": 1530016365911,
+            "changeTime": 1530016365911,
+            "contentHash": "0381917d8d37fca5d6c2a960821a32e93fcd1a79"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/EmptyError.73fbb503.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/EmptyError.73fbb503.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 39538,
+            "modifiedTime": 1530016365911,
+            "changeTime": 1530016365911,
+            "contentHash": "0db522721a6d5ab7b9c12470e1327bb0cb58ace0"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Lato-Light.fbce29db.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Lato-Light.fbce29db.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 312020,
+            "modifiedTime": 1530016365912,
+            "changeTime": 1530016365912,
+            "contentHash": "ba35c2c16fef11a64228499f6a3fdf8b845590ff"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Lato-Regular.ddc84cbb.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Lato-Regular.ddc84cbb.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 314556,
+            "modifiedTime": 1530016365913,
+            "changeTime": 1530016365913,
+            "contentHash": "325a03dff4349dbb43193fab0eb5521f889c5651"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Left_Arrow.854d669f.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Left_Arrow.854d669f.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 434,
+            "modifiedTime": 1530016365913,
+            "changeTime": 1530016365913,
+            "contentHash": "652d0374b826f6ee0a928f5cf5c267b7e1cd64bd"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoBold.45a6053d.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoBold.45a6053d.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42312,
+            "modifiedTime": 1530016365914,
+            "changeTime": 1530016365914,
+            "contentHash": "395fb827c739088b6db8e9d84cb20c7564c04e7f"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoLight.32c90405.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoLight.32c90405.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 41828,
+            "modifiedTime": 1530016365914,
+            "changeTime": 1530016365914,
+            "contentHash": "742ab2704c4868277d9c2cddb65c6c0672bfd59e"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoMedium.d530b139.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoMedium.d530b139.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40448,
+            "modifiedTime": 1530016365915,
+            "changeTime": 1530016365915,
+            "contentHash": "bca19bb123a1a5ebe620b0987f6aca8a861097e0"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoRegular.222b0f3b.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoRegular.222b0f3b.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42276,
+            "modifiedTime": 1530016365915,
+            "changeTime": 1530016365915,
+            "contentHash": "c341543605253bf1cd2b613a46b2cb726b06f682"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoThin.cf7b9c25.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/PlutoThin.cf7b9c25.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37832,
+            "modifiedTime": 1530016365917,
+            "changeTime": 1530016365917,
+            "contentHash": "a6b6165c16e75d2f706bb32c2c9f58ffde4ceafe"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Right_Arrow.80f87450.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/Right_Arrow.80f87450.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 489,
+            "modifiedTime": 1530016365917,
+            "changeTime": 1530016365917,
+            "contentHash": "d4625f082f7dc18976754f1b744464fcb1c4e79a"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/TeeFranklin-Bold.059c13bf.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/TeeFranklin-Bold.059c13bf.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 16060,
+            "modifiedTime": 1530016365918,
+            "changeTime": 1530016365918,
+            "contentHash": "7f98b704bcf86879c822ce2f96e8151d1074fd0a"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/TeeFranklin-Bold.170ff04e.otf",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/TeeFranklin-Bold.170ff04e.otf",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20052,
+            "modifiedTime": 1530016365919,
+            "changeTime": 1530016365919,
+            "contentHash": "107f4de4316dbdb22d22810a97a776df04c37a98"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/TeeFranklin-Medium.1264b0bd.woff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/TeeFranklin-Medium.1264b0bd.woff",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14952,
+            "modifiedTime": 1530016365920,
+            "changeTime": 1530016365920,
+            "contentHash": "da4d83240c6b37d1de772f3f72d53a5ffa19d5ca"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/logo-brown.d60855aa.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media/logo-brown.d60855aa.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1232,
+            "modifiedTime": 1530016365920,
+            "changeTime": 1530016365920,
+            "contentHash": "74bac8f69bad245aea3f4d7ca0e2ab3aff97765f"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/flexipages/DXDemo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/flexipages/DXDemo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 701,
+            "modifiedTime": 1530016365956,
+            "changeTime": 1530016365956,
+            "contentHash": "7c4d3c114ee3f7fc74d3dc906d7812203e94cca2"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/tabs/DXDemo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/tabs/DXDemo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 308,
+            "modifiedTime": 1530016365959,
+            "changeTime": 1530016365959,
+            "contentHash": "5a3dbd2e43ac5ec1ce25a27cffacbe0d2c87ce55"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1043,
+            "modifiedTime": 1530016365960,
+            "changeTime": 1530016365960,
+            "contentHash": "1b10ba58898e635684502d39857855f1e2c9770a"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4506,
+            "modifiedTime": 1530016365965,
+            "changeTime": 1530016365965,
+            "contentHash": "127121afd2f8bce7573f31b129770d3ce6c09351"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17923,
+            "modifiedTime": 1530016365982,
+            "changeTime": 1530016365982,
+            "contentHash": "a6f41246c4ac5f96daea642a959ddbc46674a25d"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4844,
+            "modifiedTime": 1530016365985,
+            "changeTime": 1530016365985,
+            "contentHash": "806eb6325d7d9d59386df131189afab6c27cf8b6"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4506,
+            "modifiedTime": 1530016365988,
+            "changeTime": 1530016365988,
+            "contentHash": "127121afd2f8bce7573f31b129770d3ce6c09351"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1530016365892,
+            "changeTime": 1530016365892,
+            "contentHash": "a92c47f344923c7215a12c5b0ed3644fed9750da"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1530016365895,
+            "changeTime": 1530016365895,
+            "contentHash": "4a0be2cb5a5fd869df2a417baf50c9efd2d2393d"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530016365893,
+            "changeTime": 1530016365893,
+            "contentHash": "80754af91bfb6d1073585b046fe0a474ce868509"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/css",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1530016365896,
+            "changeTime": 1530016365896,
+            "contentHash": "f90d2e85bb2ee04d1f11205ba80951d017328983"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1530016365909,
+            "changeTime": 1530016365909,
+            "contentHash": "0c5ba585bdcad64f41175c5e6d9699b9a7590fe7"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/js",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1530016365902,
+            "changeTime": 1530016365902,
+            "contentHash": "a95986f77c053f9911d0403ab93524fbde0a40a2"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/staticresources/react/build/static/media",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 672,
+            "modifiedTime": 1530016365920,
+            "changeTime": 1530016365920,
+            "contentHash": "f1f21a8e7d30c3d55736efc90871364d4933f323"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530016365956,
+            "changeTime": 1530016365956,
+            "contentHash": "0fbebdc365e87a95da629608f5b54b693763b990"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530016365958,
+            "changeTime": 1530016365958,
+            "contentHash": "e98c8502a316ea39fb362c0dc0b430a7b64041c6"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1530016365960,
+            "changeTime": 1530016365960,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/richardenojas/Demos/SFDX/DXDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1530016365988,
+            "changeTime": 1530016365988,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ]
+]
